@@ -10,6 +10,13 @@
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
+# Java output files
+out/*
+
+# IDEA generated files
+.idea/*
+*.iml
+
 # Package Files #
 *.jar
 *.war
